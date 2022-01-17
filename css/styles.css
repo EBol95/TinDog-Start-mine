@@ -19,6 +19,17 @@ h1 {
   line-height: 1.5;
 }
 
+
+h3{
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+}
+
+
+
+p{
+  color: #8f8f8f;
+}
 /* Navigation Bar */
 
 .navbar{
@@ -49,6 +60,29 @@ h1 {
      /* Title Image */
 
      .title-image{
-       width: 60%;
+       margin-top: 60px;
+       width: 40%;
        transform: rotate(25deg);
      }
+
+     h3{
+       font-family: "Montserrat-bold";
+       text-align: center;
+       }
+
+/* Features Section */
+
+#features{
+  padding: 7% 15%;
+}
+#items{
+  color: #ef8172;
+  font-size: 2em;
+}
+#items:hover{
+  color: #ff4c68;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
