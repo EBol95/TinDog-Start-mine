@@ -144,3 +144,23 @@ p {
 .pricing-column {
     padding: 3% 2%;
 }
+
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: center;
+    padding: 7% 22%;
+}
+
+.bl {
+    font-weight: 900;
+    font-size: 3.5rem;
+}
+
+#footer {
+    text-align: center;
+    padding: 10%;
+}
+.item-margin {
+    margin: 2% 0.7%;
+}
